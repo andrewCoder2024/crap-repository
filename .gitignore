@@ -1,0 +1,3 @@
+# Git will INGORE the files that you specify in here
+
+.venv
